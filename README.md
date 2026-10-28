@@ -1,1 +1,1 @@
-# MachineVisionProject
+# Machine Vision Project - Apple Counting & Detection
